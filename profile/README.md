@@ -73,9 +73,9 @@ PillGaze je **podpůrný nástroj**, nikoli zdravotnický prostředek. Nenahrazu
 ## 👥 Tým
 
 | Jméno | Role |
-| --- | --- |
-| _Jméno_ | _Role_ |
-| _Jméno_ | _Role_ |
+| Jonáš Hubený (jonashubeny) | Frontend |
+| Vít Smolík (smoliicek) | Backend |
+| Matyáš Vlk (vlcak27) | JavaScript/vibecoding |
 
 ---
 
