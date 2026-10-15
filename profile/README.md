@@ -1,8 +1,9 @@
 <div align="center">
 
-# 💊 PillGaze
-
-**Z fotky krabičky k přesné farmakologické anamnéze.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner-dark.png">
+  <img alt="PillGaze – Z fotky krabičky k přesné farmakologické anamnéze." src="assets/readme-banner-light.png" width="100%">
+</picture>
 
 Mobilní AI nástroj, který z fotografií léků a ručně psaných poznámek sestaví strukturovaný přehled medikace pro ošetřujícího lékaře.
 
@@ -27,6 +28,7 @@ PillGaze promění fotografie krabiček a ručně psaných poznámek v přesnou,
 5. **🔒 Předej** – výsledek se bezpečně a srozumitelně předá ošetřujícímu lékaři.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'fontFamily': 'Plus Jakarta Sans, sans-serif', 'primaryColor': '#ECFCF7', 'primaryTextColor': '#14123F', 'primaryBorderColor': '#3DD9B3', 'lineColor': '#3DD9B3'}}}%%
 flowchart LR
     A[📸 Fotky krabiček<br/>a poznámek] --> B[🔍 Rozpoznání léků<br/>a dávkování]
     B --> C[⚠️ Kontrola<br/>interakcí]
@@ -73,6 +75,7 @@ PillGaze je **podpůrný nástroj**, nikoli zdravotnický prostředek. Nenahrazu
 ## 👥 Tým
 
 | Jméno | Role |
+| --- | --- |
 | Jonáš Hubený (jonashubeny) | Frontend |
 | Vít Smolík (smoliicek) | Backend |
 | Matyáš Vlk (vlcak27) | JavaScript/vibecoding |
@@ -80,6 +83,11 @@ PillGaze je **podpůrný nástroj**, nikoli zdravotnický prostředek. Nenahrazu
 ---
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pillgaze-mark-dark-128.png">
+  <img alt="PillGaze" src="assets/pillgaze-mark-color-128.png" width="64">
+</picture>
 
 Vytvořeno pro <b>Masarykův onkologický ústav</b> 💙
 
