@@ -49,16 +49,15 @@ flowchart LR
 
 | Repozitář | Popis |
 | --- | --- |
-| [`mobile-app`](../../mobile-app) | Mobilní aplikace pro pořízení fotografií a zobrazení přehledu |
-| [`backend`](../../backend) | API, zpracování obrázků a správa dat |
-| [`ml`](../../ml) | Modely pro rozpoznávání léků a textu |
-| [`docs`](../../docs) | Dokumentace, architektura a návrhy |
-
-> _Upravte tabulku podle skutečných repozitářů organizace._
+| [`mobile-app`](https://github.com/modulbit-rakathon/frontend) | Mobilní aplikace pro pořízení fotografií a zobrazení přehledu |
+| [`backend`](https://github.com/modulbit-rakathon/backend) | API, zpracování obrázků a správa dat |
+| [`ml`](https://github.com/modulbit-rakathon/ml) | Modely pro rozpoznávání léků a textu |
+| [`docs`](https://github.com/modulbit-rakathon/docs) | Dokumentace, architektura a návrhy |
 
 ## 🛠️ Technologie
 
-> _Doplňte použitý stack – např. framework mobilní aplikace, backend, OCR/vision modely, databázi lékových interakcí (SÚKL apod.)._
+- Web aplikace - React Native (JS/TS)
+- Backend - go
 
 ## 🔐 Bezpečnost a soukromí
 
