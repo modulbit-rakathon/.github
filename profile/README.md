@@ -45,15 +45,6 @@ flowchart LR
 - **Strukturovaný výstup** – přehled připravený k rychlé kontrole lékařem
 - **Bezpečné sdílení** – předání dat ošetřujícímu lékaři s důrazem na ochranu osobních údajů
 
-## 📦 Repozitáře
-
-| Repozitář | Popis |
-| --- | --- |
-| [`mobile-app`](https://github.com/modulbit-rakathon/frontend) | Mobilní aplikace pro pořízení fotografií a zobrazení přehledu |
-| [`backend`](https://github.com/modulbit-rakathon/backend) | API, zpracování obrázků a správa dat |
-| [`ml`](https://github.com/modulbit-rakathon/ml) | Modely pro rozpoznávání léků a textu |
-| [`docs`](https://github.com/modulbit-rakathon/docs) | Dokumentace, architektura a návrhy |
-
 ## 🛠️ Technologie
 
 - Web aplikace - React Native (JS/TS)
